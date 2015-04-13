@@ -1,6 +1,6 @@
 {
   "name": "foundation",
-  "version": "{{VERSION}}",
+  "version": "",
   "main": [
     "css/foundation.css",
     "css/foundation.css.map",
