@@ -1,6 +1,10 @@
 {
-  "name": "foundation",
-  "version": "5.5.1.1",
+  "name": "foundation-namespaced",
+  "version": "5.5.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tagCincy/foundation-namespaced.git"
+  },
   "main": [
     "css/foundation.css",
     "css/foundation.css.map",
